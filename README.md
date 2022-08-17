@@ -1,6 +1,6 @@
 # csci2720
 
-##Create .env
+## Create .env
 
 ```
 $ JWT_SECRET=
